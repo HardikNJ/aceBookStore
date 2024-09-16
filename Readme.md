@@ -105,5 +105,10 @@ npm start
 
 The server will start and listen on http://localhost:3000
 
-API Endpoints
+## API Endpoints
+
+Postman Collection is added in the repository.
+**Postman Collection: Ace Book Store.postman_collection.json**
+https://documenter.getpostman.com/view/25960714/2sAXqp8PYC
+
 Refer to the project's documentation or codebase for detailed information on available API endpoints and how to use them.
