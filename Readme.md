@@ -1,15 +1,16 @@
 # ACE BOOKSTORE
 
-**Overview**
+## Overview
+
 The Ace Bookstore API is a backend service that supports book browsing, shopping cart management, and order processing. This document provides instructions for setting up the MySQL database and running the server.
 
-**Prerequisites**
+## Prerequisites
 
 1. MySQL Database: Ensure MySQL is installed and running on your machine.
 
 2. Node.js and npm: Make sure Node.js and npm are installed. You can download them from Node.js official website.
 
-**Database Setup**
+## Database Setup
 
 1. Create the Database:
 
@@ -95,11 +96,13 @@ Clone the repository to your local machine
 Navigate to the project directory and install the required Node.js dependencies:
 
 npm install
-Run the Server:
+
+**Run the Server:**
 
 Start the server using the following command:
 
-npm run start
+npm start
+
 The server will start and listen on http://localhost:3000
 
 API Endpoints
